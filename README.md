@@ -13,10 +13,10 @@
 
 - 📫 How to reach me **manushalakshan85@gmail.com**
 
--<p align=""> ![](https://github.com/hhpr98/hhpr98/blob/main/gif/typing.gif)
+- ![](https://github.com/hhpr98/hhpr98/blob/main/gif/typing.gif)
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-</p>
+<!--<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />-->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
